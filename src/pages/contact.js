@@ -7,5 +7,4 @@ export default () => (
             <a href="mailto:s.garcia39@gmail.com">s.garcia@gmail.com</a>
         </p>
     </div>
-
 );
